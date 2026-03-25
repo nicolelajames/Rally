@@ -344,7 +344,7 @@ export default function Onboarding({ onComplete }: OnboardingProps) {
                       }`}
                       style={{
                         backgroundColor: c,
-                        ringColor: c,
+                    
                       }}
                     />
                   ))}
